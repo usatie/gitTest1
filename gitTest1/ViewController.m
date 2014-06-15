@@ -28,6 +28,8 @@
     }
 
     NSLog(@"Momoe Issue DBいれるよ");
+    
+    NSLog(@"いやです。");
 }
 
 - (void)didReceiveMemoryWarning
