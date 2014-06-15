@@ -26,6 +26,8 @@
     for (int i=0; i<10; i++) {
         NSLog(@"i = %d",i);
     }
+
+    NSLog(@"Momoe Issue DBいれるよ");
     
     NSLog(@"いやです。");
 }
