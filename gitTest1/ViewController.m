@@ -20,6 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     //aaaaaaaaaaaa
     NSLog(@"git test");
+    NSLog(@"Hello!!!");
 }
 
 - (void)didReceiveMemoryWarning
